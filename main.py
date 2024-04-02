@@ -1,5 +1,2 @@
-print("Hello World")
+print("Hello ANA")
 
-print("Hello Git")
-
-print("Hello World")
